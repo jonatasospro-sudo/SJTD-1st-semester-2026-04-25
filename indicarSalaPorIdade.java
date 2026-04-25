@@ -8,7 +8,7 @@ Entrada (idade) = 59 resposta esperada: "Adulto - Sala 03"
 Entrada (idade) =  60 resposta esperada: "Idoso-  Sala 04"
 
 */
-
+// CÓDIGO
 import java.util.Scanner;
 
 public class indicarSalaPorIdade {
