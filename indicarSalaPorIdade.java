@@ -1,6 +1,6 @@
 /*
 
-// PELOMENOS 3 TESTES PLANEJADOS COM RESULTADOS ESPERADOS PARA TESTAR, ANTES DE FAZER O CÓDIGO (Modelo ensinado na ULIFE):
+// PELO MENOS 3 TESTES PLANEJADOS COM RESULTADOS ESPERADOS PARA TESTAR, ANTES DE FAZER O CÓDIGO (Modelo ensinado na ULIFE):
 Entrada (idade) = 5 resposta esperada: "Entrada proibida"
 Entrada (idade) = 12 resposta esperada: "Criança - Sala 01"
 Entrada (idade) = 17 resposta esperada: "Adolecente Sala 02"
